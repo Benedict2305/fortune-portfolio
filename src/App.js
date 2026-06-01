@@ -408,7 +408,7 @@ function App() {
 
       <div className="fixed right-4 bottom-8 z-50 flex flex-col gap-3 rounded-full bg-slate-950/80 p-2 shadow-2xl shadow-slate-950/40 backdrop-blur-lg">
         <a
-          href="https://wa.me/1234567890"
+          href="https://wa.me/+2348032682945"
           target="_blank"
           rel="noreferrer"
           aria-label="WhatsApp"
@@ -419,7 +419,7 @@ function App() {
           </svg>
         </a>
         <a
-          href="https://github.com/Chinaka-Fortune"
+          href="https://github.com/Chinaka-Fortune?tab=repositories"
           target="_blank"
           rel="noreferrer"
           aria-label="GitHub"
@@ -430,7 +430,7 @@ function App() {
           </svg>
         </a>
         <a
-          href="https://linkedin.com/in/your-profile"
+          href="https://linkedin.com/in/fortune-chimezie-chinaka"
           target="_blank"
           rel="noreferrer"
           aria-label="LinkedIn"
@@ -438,17 +438,6 @@ function App() {
         >
           <svg viewBox="0 0 24 24" className="h-6 w-6" fill="currentColor" aria-hidden="true">
             <path d="M19 0h-14a5 5 0 00-5 5v14a5 5 0 005 5h14a5 5 0 005-5v-14a5 5 0 00-5-5zm-11.5 20h-3v-11h3v11zm-1.5-12.25a1.75 1.75 0 110-3.5 1.75 1.75 0 010 3.5zm13 12.25h-3v-5.5c0-1.3-.03-2.98-1.82-2.98-1.82 0-2.1 1.43-2.1 2.9v5.58h-3v-11h2.88v1.5h.04c.4-.75 1.37-1.54 2.82-1.54 3.02 0 3.58 1.99 3.58 4.57v6.47z" />
-          </svg>
-        </a>
-        <a
-          href="https://twitter.com/yourhandle"
-          target="_blank"
-          rel="noreferrer"
-          aria-label="Twitter"
-          className="inline-flex h-12 w-12 items-center justify-center rounded-full bg-slate-900 text-sky-300 transition hover:bg-sky-500 hover:text-white"
-        >
-          <svg viewBox="0 0 24 24" className="h-6 w-6" fill="currentColor" aria-hidden="true">
-            <path d="M24 4.56a9.83 9.83 0 01-2.83.78 4.93 4.93 0 002.16-2.72 9.86 9.86 0 01-3.12 1.2 4.92 4.92 0 00-8.38 4.48A13.94 13.94 0 011.67 3.15a4.92 4.92 0 001.52 6.56 4.9 4.9 0 01-2.23-.62v.06a4.92 4.92 0 003.95 4.83 4.92 4.92 0 01-2.22.08 4.93 4.93 0 004.6 3.42A9.86 9.86 0 010 19.54a13.9 13.9 0 007.56 2.22c9.05 0 14-7.5 14-14v-.64A10.04 10.04 0 0024 4.56z" />
           </svg>
         </a>
       </div>
